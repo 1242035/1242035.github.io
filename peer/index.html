@@ -1,0 +1,23 @@
+<html>
+
+  <head>
+    <title>jquery.peer demo</title>
+    <link rel="stylesheet" href="./css/jquery.peer.css">
+
+    <script type="text/javascript" src="./lib/jquery-cached.min.js"></script>
+    <script type="text/javascript" src="./lib/peer-cached.js"></script>
+    <script type="text/javascript" src="./lib/jquery.peer.min.js"></script>
+
+    <script>
+      $(document).ready(function() {
+        $('#videochat').peer({id: 'audience', room: 'jssummit'});
+      });
+    </script>
+  </head>
+
+  <body>
+    <div id="videochat">
+    </div>
+  </body>
+
+</html>
