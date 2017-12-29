@@ -1,6 +1,6 @@
 {	
     "en": {
-        "resumeTitle": "Pham Van Điep - CV",
+        "resumeTitle": "Meo Chuot - CV",
         "jobTitle": "Programmer",
         "contact":{
             "name": "Meo Chuot",
@@ -12,13 +12,13 @@
                     "icon": "fa fa-phone"
                 },
                 {
-                    "link": "mailto:diep.job@gmail.com",
-                    "desc": "diep.job@gmail.com",
+                    "link": "mailto:mail@gmail.com",
+                    "desc": "mail@gmail.com",
                     "icon": "fa fa-envelope"
                 },
                 {
-                    "link": "skype:pndhainam?chat",
-                    "desc": "@pndhainam",
+                    "link": "skype:meochuot?chat",
+                    "desc": "@meochuot",
                     "icon": "fa fa-skype"
                 },
                 {
@@ -27,8 +27,8 @@
                     "icon": "fa fa-github"
                 },
                 {
-                    "link": "https://www.facebook.com/bachytientu",
-                    "desc": "@bachytientu",
+                    "link": "https://www.facebook.com/meochuot",
+                    "desc": "@meochuot",
                     "icon": "fa fa-facebook"
                 }
                 
@@ -37,13 +37,13 @@
         "wisdom": "Follow Heart, Try Everything",
         "socials": [
             {
-                "link": "skype:pndhainam?chat",
-                "desc": "@bachytientu",
+                "link": "skype:meochuot?chat",
+                "desc": "@meochuot",
                 "icon": "fa fa-skype"
             },
             {
-                "link": "https://www.facebook.com/bachytientu",
-                "desc": "@bachytientu",
+                "link": "https://www.facebook.com/meochuot",
+                "desc": "@meochuot",
                 "icon": "fa fa-facebook"
             }
         ],
@@ -218,7 +218,7 @@
         ]
     },
     "vi": {
-        "resumeTitle": "Phạm Văn Điệp - CV",
+        "resumeTitle": "Meo Chuot - CV",
         "jobTitle": "Lập trình viên",
         "contact":{
             "name": "Meo Chuot",
@@ -230,13 +230,13 @@
                     "icon": "fa fa-phone"
                 },
                 {
-                    "link": "mailto:diep.job@gmail.com",
-                    "desc": "diep.job@gmail.com",
+                    "link": "mailto:meochuot@gmail.com",
+                    "desc": "meochuot@gmail.com",
                     "icon": "fa fa-envelope"
                 },
                 {
-                    "link": "skype:pndhainam?chat",
-                    "desc": "@pndhainam",
+                    "link": "skype:meochuot?chat",
+                    "desc": "@meochuot",
                     "icon": "fa fa-skype"
                 },
                 {
@@ -245,8 +245,8 @@
                     "icon": "fa fa-github"
                 },
                 {
-                    "link": "https://www.facebook.com/bachytientu",
-                    "desc": "@bachytientu",
+                    "link": "https://www.facebook.com/meochuot",
+                    "desc": "@meochuot",
                     "icon": "fa fa-facebook"
                 }
                 
@@ -255,13 +255,13 @@
         "wisdom": "Follow Heart, Try Everything",
         "socials": [
             {
-                "link": "skype:pndhainam?chat",
-                "desc": "@bachytientu",
+                "link": "skype:meochuot?chat",
+                "desc": "@meochuot",
                 "icon": "fa fa-skype"
             },
             {
-                "link": "https://www.facebook.com/bachytientu",
-                "desc": "@bachytientu",
+                "link": "https://www.facebook.com/meochuot",
+                "desc": "@meochuot",
                 "icon": "fa fa-facebook"
             }
         ],
