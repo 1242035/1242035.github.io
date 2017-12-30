@@ -33,18 +33,18 @@
             "icon": "fa fa-github"
         }],
         "jobs": {
-            "Chức vụ": "Front-end develop",
-            "Địa điểm": "Hà Nội - Hải Dương - Hải Phòng",
-            "Tình trạng": "Working"
+            "Position": "Front-end develop",
+            "Location": "Hà Nội - Hải Dương - Hải Phòng",
+            "State": "Working"
         },
         "skills": {
             "JavaScript": 68,
             "HTML/CSS": 62,
-            "React": 55,
-            "ReactNative": 50,
+            "Angular": 55,
             "Vue": 55,
             "Node.js": 35,
-            "PHP": 90
+            "PHP": 90,
+            "Laravel": 90
         },
         "evaluation": "Rich and willing to study end-to-end technology, good study and English reading and writing skills. Serious work, responsible attitude, team spirit. Enjoy reading, running and polishing games",
         "educations": [{
@@ -54,150 +54,150 @@
             "type": "College"
         }],
         "works": [{
-            "company": "美团",
-            "time": "2016.07 - 至今",
-            "title": "前端开发工程师",
+            "company": "Beautiful group",
+            "time": "2016.07 - Now",
+            "title": "Front-end development engineer",
             "projects": [{
-                "name": "聊天文件",
+                "name": "Chat file",
                 "description": [
-                    "集中展示Web端IM中发送的文件",
-                    "提供文件的下载/预览/多选等功能",
-                    "基于视觉稿和交互稿，使用React+Redux完成相关界面和功能开发"
+                    "Centrally display the files sent on the web-side IM",
+                    "Provide file download / preview / multiple selection and other functions",
+                    "Based on the visual manuscript and the interactive manuscript, use React + Redux to complete the related interface and function development"
                 ]
             },
             {
-                "name": "公共文件前台/后台前台",
+                "name": "Public document front / background front desk",
                 "description": [
-                    "为企业用户提供的文件管理功能",
-                    "犀牛云盘的浓缩版",
-                    "权限访问管理"
+                    "File management for enterprise users",
+                    "Rhino cloud plate condensed version",
+                    "Permission access management"
                 ]
             },
             {
-                "name": "审批",
+                "name": "Approved",
                 "description": [
-                    "为用户提供常见的审批申请类型管理",
-                    "独立完成审批发起/查看/流程管理等功能",
-                    "使用React Native进行移动端开发, 使用Redux进行应用状态管理"
+                    "Provide users with common approval application type management",
+                    "Independent approval launch / view / process management and other functions",
+                    "Use React Native for mobile development, use Redux for application state management"
                 ]
             },
             {
-                "name": "日志",
+                "name": "Log",
                 "description": [
-                    "为用户提供日报管理",
-                    "提供日志创建/查看等功能",
-                    "使用Vue进行移动端开发, 使用Vuex进行应用状态管理"
+                    "To provide users with daily management",
+                    "Provides log creation / viewing and more",
+                    "Vue for mobile development, Vuex for application state management"
                 ]
             }]
         },
         {
-            "company": "美团",
+            "company": "Beautiful group",
             "time": "2015.07 - 2016.07",
-            "title": "前端开发工程师(实习)",
+            "title": "Front-end development engineer (internship)",
             "projects": [{
-                "name": "犀牛云盘",
+                "name": "Rhino cloud disk",
                 "description": [
-                    "使用jQuery+Handlebars产品一期开发, 提供文件上传/删除/下载/文件夹创建/组创建/人员管理等功能",
-                    "使用Flux+React进行产品二期开发, 提供组置顶和重命名/文件转移/预览/分享/权限管理等功能",
-                    "使用React+Redux进行产品三期开发, 提供文件多选/列表排序/视图切换等功能"
+                    "Use jQuery + Handlebars product development, provide file upload / delete / download / folder creation / group creation / personnel management functions",
+                    "Phase II development with Flux + React, with features such as group pinch and rename / file transfer / preview / share / rights management",
+                    "Use React + Redux for third-phase product development, file selection / list sorting / view switching and other functions"
                 ]
             },
             {
-                "name": "群空间/我的文件",
+                "name": "Group space / my file",
                 "description": [
-                    "将犀牛云盘和Web端IM进行集成",
-                    "跨团队合作",
-                    "基于视觉稿和交互稿，使用React+Redux完成相关界面和功能开发"
+                    "Integrate Rhino Cloud Disk with Web-Side IM",
+                    "Cross teamwork",
+                    "Based on the visual manuscript and the interactive manuscript, use React + Redux to complete the related interface and function development"
                 ]
             }]
         }],
         "projects": [{
             "name": "Vue Resume",
             "time": "2016.11 - 2016.11",
-            "source": "https://github.com/dwqs/vue-resume",
-            "online": "http://resume.ido321.com",
+            "source": "https://github.com",
+            "online": "https://github.com",
             "description": [
-                "纯粹造轮子, 基于Vue+Node.js的简历生成器",
-                "使用Node.js读取JSON数据, 并吐露模板, 前端使用Vue生成页面",
-                "使用Webpack进行打包, Gulp改进工作流"
+                "Pure wheels, Vue + Node.js-based resume generator",
+                "Use Node.js to read JSON data and expose the template, front-end using Vue to generate the page",
+                "Packaging with Webpack, Gulp improves workflow"
             ]
         },
         {
             "name": "Tech-Read",
             "time": "2016.04 - 2016-05",
-            "source": "https://github.com/dwqs/tech-read",
-            "online": "http://tech-read.ido321.com",
+            "source": "https://github.com",
+            "online": "https://github.com",
             "description": [
-                "使用request库进行网络请求, cheerio库解析DOM树, Node.js提供前端API",
-                "前端采用React进行组件化开发, 使用Flux进行数据流管理, localStorage进行浏览器本地存储"
+                "Use the request library for web requests, the cheerio library parses the DOM tree, and Node.js provides front-end APIs",
+                "Front-end using React for component development, Flux for data stream management, localStorage for browser local storage"
             ]
         },
         {
             "name": "Flyicon",
             "time": "2016.03 - 2016.03",
-            "source": "https://github.com/Flyicon",
-            "online": "http://dwqs.github.io/Flyicon/",
+            "source": "https://github.com",
+            "online": "https://github.io",
             "description": [
-                "用pure css实现的一些小图标"
+                "Pure css achieved with some small icons"
             ]
         },
         {
             "name": "Front-end Developer HandBook",
             "time": "2015.10 - 2015.12",
-            "source": "https://github.com/dwqs/fedHandlebook",
-            "online": "https://dwqs.gitbooks.io/frontenddevhandbook/content/",
+            "source": "https://github.com",
+            "online": "https://github.com",
             "description": [
-                "翻译的前端开发者手册",
-                "使用gitbooks生成在线电子书"
+                "Translated front-end developer's manual",
+                "Use gitbooks to generate online ebooks"
             ]
         },
         {
-            "name": "其它",
-            "time": "2014.10 - 至今",
+            "name": "other",
+            "time": "2014.10 - Now",
             "source": "",
             "online": "",
             "description": [{
-                "text": "替换 github「辣眼睛」的主题色",
-                "link": "https://github.com/dwqs/infine",
+                "text": "Replace github 'hot eyes' theme color",
+                "link": "https://github.com",
                 "title": "infine"
             },
             {
-                "text": "用于前端项目脚手架的CLI工具",
-                "link": "https://github.com/dwqs/chare",
+                "text": "CLI tool for front-end project scaffolding",
+                "link": "https://github.com",
                 "title": "chare"
             },
             {
-                "text": "github 搜索的 chrome 扩展",
-                "link": "https://github.com/dwqs/orbithub",
+                "text": "github search chrome extension",
+                "link": "https://github.com",
                 "title": "orbithub"
             },
             {
-                "text": "个简单的Relay随机密码生成器",
-                "link": "https://github.com/dwqs/reproto",
+                "text": "A simple Relay random password generator",
+                "link": "https://github.com",
                 "title": "reproto"
             },
             {
-                "text": "基于React Native的图片预览组件",
-                "link": "https://github.com/dwqs/react-native-image-viewer",
+                "text": "React Native Picture Preview component",
+                "link": "https://github.com",
                 "title": "ImageViewer"
             },
             {
-                "text": "基于Vue.js的Toast组件",
-                "link": "https://github.com/dwqs/vue-toast",
+                "text": "Toast component based on Vue.js",
+                "link": "https://github.com",
                 "title": "vue-toast"
             }]
         }],
         "skillsDesc": [
-            "熟悉HTML/CSS, 能编写语义化的HTML/CSS, 完成较复杂的布局",
-            "熟悉原生JavaScript(ES6)/DOM/BOM的使用, 能脱离jQuery等类库进行编码",
-            "拥有React/Vue/React Native等前端框架的项目实践经验, 能运用其编写SPA应用",
-            "能够使用Node.js API/Koa搭建简单的后端程序, 用于渲染模板及提供RESTful API",
-            "日常使用Webpack/Gulp/Git/Markdown改进工作流, 掌握常见的Linux命令",
-            "了解Bash/HTML5/CSS3/HTTP协议/Less等预处理工具, 有Nginx建站和反向代理使用经验"
+            "Familiar with HTML / CSS, can write semantic HTML / CSS to complete the more complex layout",
+            "Familiar with the use of native JavaScript (ES6) / DOM / BOM, can be encoded from classes like jQuery",
+            "Project experience with front-end frameworks such as React / Vue / React Native for writing spa applications",
+            "Ability to build simple backend programs using Node.js API / Koa for rendering templates and providing RESTful APIs",
+            "Daily use of Webpack / Gulp / Git / Markdown improve workflow, master common Linux commands",
+            "Understand Bash / HTML5 / CSS3 / HTTP protocol / Less and other pre-processing tools, Nginx station and reverse proxy experience"
         ]
     },
     "vi": {
-        "resumeTitle": "Phạm Văn Điệp - CV",
+        "resumeTitle": "Meo Chuot - CV",
         "jobTitle": "Lập trình viên",
         "contact":{
             "name": "Meo Chuot",
@@ -237,11 +237,11 @@
         "skills": {
             "JavaScript": 68,
             "HTML/CSS": 62,
-            "React": 55,
-            "ReactNative": 50,
+            "Angular": 55,
             "Vue": 55,
             "Node.js": 35,
-            "PHP": 90
+            "PHP": 90,
+            "Laravel": 90
         },
         "evaluation": "Giàu và sẵn sàng nghiên cứu công nghệ đầu cuối, có khả năng học tập tốt, kỹ năng đọc và dịch tiếng Anh. Làm việc nghiêm túc, thái độ làm việc có trách nhiệm, với tinh thần đồng đội. Thưởng thức các trò chơi đọc, chạy và đánh bóng",
         "educations": [{
@@ -251,146 +251,146 @@
             "type": "Cao đẳng"
         }],
         "works": [{
-            "company": "美团",
-            "time": "2016.07 - 至今",
-            "title": "前端开发工程师",
+            "company": "Nhóm đẹp",
+            "time": "2016.07 - Nay",
+            "title": "Kỹ sư phát triển front-end",
             "projects": [{
-                "name": "聊天文件",
+                "name": "Tệp trò chuyện",
                 "description": [
-                    "集中展示Web端IM中发送的文件",
-                    "提供文件的下载/预览/多选等功能",
-                    "基于视觉稿和交互稿，使用React+Redux完成相关界面和功能开发"
+                    "Hiển thị tập trung các tập tin được gửi trên IM-web",
+                    "Cung cấp tập tin tải về / xem trước / lựa chọn nhiều và các chức năng khác",
+                    "Dựa trên bản thảo trực quan và bản thảo tương tác, sử dụng React + Redux để hoàn thành giao diện và phát triển chức năng liên quan"
                 ]
             },
             {
-                "name": "公共文件前台/后台前台",
+                "name": "Phía trước / phía trước của văn phòng công cộng",
                 "description": [
-                    "为企业用户提供的文件管理功能",
-                    "犀牛云盘的浓缩版",
-                    "权限访问管理"
+                    "Quản lý tập tin cho người dùng doanh nghiệp",
+                    "Màn hình đám mây ngói phiên bản ngưng tụ",
+                    "Quản lý truy cập quyền"
                 ]
             },
             {
-                "name": "审批",
+                "name": "Được phê duyệt",
                 "description": [
-                    "为用户提供常见的审批申请类型管理",
-                    "独立完成审批发起/查看/流程管理等功能",
-                    "使用React Native进行移动端开发, 使用Redux进行应用状态管理"
+                    "Cung cấp cho người dùng với sự chấp thuận chung của quản lý loại ứng dụng",
+                    "Sự ra mắt độc lập phê duyệt / quản lý xem / quá trình và các chức năng khác",
+                    "Sử dụng React Native để phát triển điện thoại di động, sử dụng Redux để quản lý nhà nước ứng dụng"
                 ]
             },
             {
-                "name": "日志",
+                "name": "Đăng nhập",
                 "description": [
-                    "为用户提供日报管理",
-                    "提供日志创建/查看等功能",
-                    "使用Vue进行移动端开发, 使用Vuex进行应用状态管理"
+                    "Cung cấp cho người dùng quản lý hàng ngày",
+                    "Cung cấp việc tạo / xem nhật ký và hơn thế nữa",
+                    "Vue cho phát triển điện thoại di động, Vuex để quản lý nhà nước ứng dụng"
                 ]
             }]
         },
         {
-            "company": "美团",
+            "company": "Nhóm đẹp",
             "time": "2015.07 - 2016.07",
-            "title": "前端开发工程师(实习)",
+            "title": "Kỹ sư phát triển front-end (thực tập)",
             "projects": [{
-                "name": "犀牛云盘",
+                "name": "Đĩa mây rhino",
                 "description": [
-                    "使用jQuery+Handlebars产品一期开发, 提供文件上传/删除/下载/文件夹创建/组创建/人员管理等功能",
-                    "使用Flux+React进行产品二期开发, 提供组置顶和重命名/文件转移/预览/分享/权限管理等功能",
-                    "使用React+Redux进行产品三期开发, 提供文件多选/列表排序/视图切换等功能"
+                    "Sử dụng phát triển sản phẩm jQuery + Handlebars, cung cấp tệp tin tải lên / xóa / tải / tạo thư mục / nhóm tạo / chức năng quản lý nhân sự",
+                    "Pha II phát triển với Flux + Phản hồi, với các tính năng như nhóm pinch và đổi tên / tập tin chuyển / xem trước / chia sẻ / quyền quản lý",
+                    "Sử dụng React + Redux cho phát triển sản phẩm thứ ba, lựa chọn tập tin / danh sách / chuyển đổi chế độ xem và các chức năng khác"
                 ]
             },
             {
-                "name": "群空间/我的文件",
+                "name": "Không gian nhóm / tệp của tôi",
                 "description": [
-                    "将犀牛云盘和Web端IM进行集成",
-                    "跨团队合作",
-                    "基于视觉稿和交互稿，使用React+Redux完成相关界面和功能开发"
+                    "Tích hợp Rhino Cloud Disk với Web-Side IM",
+                    "Làm việc theo nhóm",
+                    "Dựa trên bản thảo trực quan và bản thảo tương tác, sử dụng React + Redux để hoàn thành giao diện và phát triển chức năng liên quan"
                 ]
             }]
         }],
         "projects": [{
             "name": "Vue Resume",
             "time": "2016.11 - 2016.11",
-            "source": "https://github.com/dwqs/vue-resume",
-            "online": "http://resume.ido321.com",
+            "source": "https://github.com",
+            "online": "https://github.com",
             "description": [
-                "纯粹造轮子, 基于Vue+Node.js的简历生成器",
-                "使用Node.js读取JSON数据, 并吐露模板, 前端使用Vue生成页面",
-                "使用Webpack进行打包, Gulp改进工作流"
+                "Bánh xe tinh khiết, máy phát điện tiếp nối Vue + Node.js",
+                "Sử dụng Node.js để đọc dữ liệu JSON và phơi bày mẫu, giao diện người dùng bằng các trang được tạo bởi Vue",
+                "Bao bì với Webpack, Gulp cải thiện quy trình làm việc"
             ]
         },
         {
             "name": "Tech-Read",
             "time": "2016.04 - 2016-05",
-            "source": "https://github.com/dwqs/tech-read",
-            "online": "http://tech-read.ido321.com",
+            "source": "https://github.com",
+            "online": "https://github.com",
             "description": [
-                "使用request库进行网络请求, cheerio库解析DOM树, Node.js提供前端API",
-                "前端采用React进行组件化开发, 使用Flux进行数据流管理, localStorage进行浏览器本地存储"
+                "Sử dụng thư viện yêu cầu cho các yêu cầu web, thư viện cheerio phân tích cây DOM và Node.js cung cấp các API đầu cuối",
+                "Front-end dùng React để phát triển thành phần, Flux để quản lý luồng dữ liệu, localStorage cho trình duyệt lưu trữ cục bộ"
             ]
         },
         {
             "name": "Flyicon",
             "time": "2016.03 - 2016.03",
-            "source": "https://github.com/Flyicon",
-            "online": "http://dwqs.github.io/Flyicon/",
+            "source": "https://github.com",
+            "online": "https://github.com",
             "description": [
-                "用pure css实现的一些小图标"
+                "Pure css đạt được với một số biểu tượng nhỏ"
             ]
         },
         {
             "name": "Front-end Developer HandBook",
             "time": "2015.10 - 2015.12",
-            "source": "https://github.com/dwqs/fedHandlebook",
-            "online": "https://dwqs.gitbooks.io/frontenddevhandbook/content/",
+            "source": "https://github.com",
+            "online": "https://github.com",
             "description": [
-                "翻译的前端开发者手册",
-                "使用gitbooks生成在线电子书"
+                "Hướng dẫn của nhà phát triển phần mềm đã được dịch trước",
+                "Sử dụng gitbooks để tạo ebooks trực tuyến"
             ]
         },
         {
-            "name": "其它",
-            "time": "2014.10 - 至今",
+            "name": "Khác",
+            "time": "2014.10 - Nay",
             "source": "",
             "online": "",
             "description": [{
-                "text": "替换 github「辣眼睛」的主题色",
-                "link": "https://github.com/dwqs/infine",
+                "text": "Thay đổi màu chủ đề 'nóng mắt' github",
+                "link": "https://github.com",
                 "title": "infine"
             },
             {
-                "text": "用于前端项目脚手架的CLI工具",
-                "link": "https://github.com/dwqs/chare",
+                "text": "Công cụ CLI cho giàn giáo dự án đầu cuối",
+                "link": "https://github.com",
                 "title": "chare"
             },
             {
-                "text": "github 搜索的 chrome 扩展",
-                "link": "https://github.com/dwqs/orbithub",
+                "text": "tiện ích tìm kiếm github chrome",
+                "link": "https://github.com",
                 "title": "orbithub"
             },
             {
-                "text": "个简单的Relay随机密码生成器",
-                "link": "https://github.com/dwqs/reproto",
+                "text": "Một bộ tạo mật khẩu ngẫu nhiên",
+                "link": "https://github.com",
                 "title": "reproto"
             },
             {
-                "text": "基于React Native的图片预览组件",
-                "link": "https://github.com/dwqs/react-native-image-viewer",
+                "text": "Phản hồi thành phần Xem trước hình ảnh gốc",
+                "link": "https://github.com",
                 "title": "ImageViewer"
             },
             {
-                "text": "基于Vue.js的Toast组件",
-                "link": "https://github.com/dwqs/vue-toast",
+                "text": "Thành phần bánh mì nướng dựa trên Vue.js",
+                "link": "https://github.com",
                 "title": "vue-toast"
             }]
         }],
         "skillsDesc": [
-            "熟悉HTML/CSS, 能编写语义化的HTML/CSS, 完成较复杂的布局",
-            "熟悉原生JavaScript(ES6)/DOM/BOM的使用, 能脱离jQuery等类库进行编码",
-            "拥有React/Vue/React Native等前端框架的项目实践经验, 能运用其编写SPA应用",
-            "能够使用Node.js API/Koa搭建简单的后端程序, 用于渲染模板及提供RESTful API",
-            "日常使用Webpack/Gulp/Git/Markdown改进工作流, 掌握常见的Linux命令",
-            "了解Bash/HTML5/CSS3/HTTP协议/Less等预处理工具, 有Nginx建站和反向代理使用经验"
+            "Hiểu biết về HTML / CSS, có thể viết theo ngữ nghĩa HTML / CSS để hoàn thành bố cục phức tạp hơn",
+            "Hiểu được sử dụng JavaScript gốc (ES6) / DOM / BOM, có thể được mã hoá từ các lớp như jQuery",
+            "Trải nghiệm dự án với các khuôn khổ front-end như React / Vue / React Native để viết ứng dụng spa",
+            "Khả năng xây dựng các chương trình phụ trợ đơn giản bằng cách sử dụng Node.js API / Koa cho các khuôn mẫu hiển thị và cung cấp các API RESTful",
+            "Việc sử dụng Webpack / Gulp / Git / Markdown hàng ngày sẽ cải thiện quy trình làm việc, làm chủ các lệnh Linux phổ biến",
+            "Hiểu được giao thức Bash / HTML5 / CSS3 / HTTP / Các công cụ tiền chế và chế biến trước khác, trạm Nginx và trải nghiệm proxy ngược lại"
         ]
     }
 }
