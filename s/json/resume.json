@@ -14,21 +14,6 @@
                 "link": "mailto:meochuot@gmail.com",
                 "desc": "meochuot@gmail.com",
                 "icon": "fa fa-envelope"
-            },
-            {
-                "link": "skype:meochuot?chat",
-                "desc": "@meochuot",
-                "icon": "fa fa-skype"
-            },
-            {
-                "link": "https://github.com/1242035",
-                "desc": "@1242035",
-                "icon": "fa fa-github"
-            },
-            {
-                "link": "https://www.facebook.com/meochuot",
-                "desc": "@meochuot",
-                "icon": "fa fa-facebook"
             }]
         },
         "wisdom": "Follow Heart, Try Everything",
@@ -41,6 +26,11 @@
             "link": "https://www.facebook.com/meochuot",
             "desc": "@meochuot",
             "icon": "fa fa-facebook"
+        },
+        {
+            "link": "https://github.com/1242035",
+            "desc": "@1242035",
+            "icon": "fa fa-github"
         }],
         "jobs": {
             "Chức vụ": "Front-end develop",
@@ -221,21 +211,6 @@
                 "link": "mailto:meochuot@gmail.com",
                 "desc": "meochuot@gmail.com",
                 "icon": "fa fa-envelope"
-            },
-            {
-                "link": "skype:meochuot?chat",
-                "desc": "@meochuot",
-                "icon": "fa fa-skype"
-            },
-            {
-                "link": "https://github.com/1242035",
-                "desc": "@1242035",
-                "icon": "fa fa-github"
-            },
-            {
-                "link": "https://www.facebook.com/meochuot",
-                "desc": "@meochuot",
-                "icon": "fa fa-facebook"
             }]
         },
         "wisdom": "Follow Heart, Try Everything",
@@ -248,6 +223,11 @@
             "link": "https://www.facebook.com/meochuot",
             "desc": "@meochuot",
             "icon": "fa fa-facebook"
+        },
+        {
+            "link": "https://github.com/1242035",
+            "desc": "@1242035",
+            "icon": "fa fa-github"
         }],
         "jobs": {
             "Chức vụ": "Kỹ sư phát triển front-end",
