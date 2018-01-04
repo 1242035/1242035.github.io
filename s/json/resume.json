@@ -1,7 +1,5 @@
 {	
     "en": {
-        "resumeTitle": "Meo Chuot - CV",
-        "jobTitle": "Programmer",
         "contact":{
             "name": "Meo Chuot",
             "avatar": "/s/images/avatar.jpg",
@@ -16,7 +14,7 @@
                 "icon": "fa fa-envelope"
             }]
         },
-        "wisdom": "Follow Heart, Try Everything",
+        "slogan": "There is nothing permanent except change.",
         "socials": [{
             "link": "skype:meochuot?chat",
             "desc": "@meochuot",
@@ -32,10 +30,23 @@
             "desc": "@1242035",
             "icon": "fa fa-github"
         }],
-        "jobs": {
-            "Position": "Front-end develop",
-            "Location": "Hà Nội - Hải Dương - Hải Phòng",
-            "State": "Working"
+        "job": {
+            "position":{
+                "name": "Position",
+                "desc": "Front-end develop"
+            },
+            "location":{
+                "name": "Location",
+                "desc": "Hà Nội - Hải Dương - Hải Phòng"
+            },
+            "status":{
+                "name": "Status",
+                "desc": "Finding"
+            }
+        },
+        "languages": {
+            "English": 68,
+            "Korean": 50
         },
         "skills": {
             "JavaScript": 68,
@@ -197,8 +208,6 @@
         ]
     },
     "vi": {
-        "resumeTitle": "Meo Chuot - CV",
-        "jobTitle": "Lập trình viên",
         "contact":{
             "name": "Meo Chuot",
             "avatar": "/s/images/avatar.jpg",
@@ -213,7 +222,7 @@
                 "icon": "fa fa-envelope"
             }]
         },
-        "wisdom": "Follow Heart, Try Everything",
+        "slogan": "There is nothing permanent except change.",
         "socials": [{
             "link": "skype:meochuot?chat",
             "desc": "@meochuot",
@@ -229,10 +238,23 @@
             "desc": "@1242035",
             "icon": "fa fa-github"
         }],
-        "jobs": {
-            "Chức vụ": "Kỹ sư phát triển front-end",
-            "Địa điểm": "Hà Nội - Hải Dương - Hải Phòng",
-            "Tình trạng": "Đang làm việc"
+        "job": {
+            "position":{
+                "name": "Chức vụ",
+                "desc": "Kỹ sư phát triển front-end"
+            },
+            "location":{
+                "name": "Địa điểm",
+                "desc": "Hà Nội - Hải Dương - Hải Phòng"
+            },
+            "status":{
+                "name": "Tình trạng",
+                "desc": "Đang tìm việc"
+            }
+        },
+        "languages": {
+            "English": 68,
+            "Korean": 50
         },
         "skills": {
             "JavaScript": 68,
