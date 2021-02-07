@@ -18,17 +18,17 @@
         "socials": [{
             "link": "skype:meochuot?chat",
             "desc": "@meochuot",
-            "icon": "fa fa-skype"
+            "icon": "fab fa-skype"
         },
         {
             "link": "https://www.facebook.com/meochuot",
             "desc": "@meochuot",
-            "icon": "fa fa-facebook"
+            "icon": "fab fa-facebook"
         },
         {
             "link": "https://github.com/1242035",
             "desc": "@1242035",
-            "icon": "fa fa-github"
+            "icon": "fab fa-github"
         }],
         "job": {
             "position":{
